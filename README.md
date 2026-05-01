@@ -58,7 +58,11 @@ DailyBite is licensed under the MIT License. See [LICENSE](https://github.com/Da
 
 - [DailyBites.Users](https://github.com/DailyBites-System/DailyBites.Users) - User management service
 - [DailyBites.API](https://github.com/DailyBites-System/DailyBites.API) - Main API gateway
-- [Other services...]
+
+
+## Contact
+
+For questions or feedback, please contact Ahmed Hussain aka huzcodes at huzcodes@outlook.com.
 
 ---
 
