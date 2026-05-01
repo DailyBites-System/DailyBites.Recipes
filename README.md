@@ -1,5 +1,5 @@
 # DailyBites.Recipes
-
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 The core recipe service for **DailyBites**, an intelligent daily recipe suggestion platform that personalizes recommendations based on user preferences and dietary requirements.
 
 ## Overview
