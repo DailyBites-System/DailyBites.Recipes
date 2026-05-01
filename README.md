@@ -28,8 +28,8 @@ DailyBites.Recipes is a microservice designed to generate and manage personalize
 
 - **API Integration**: OpenAI API for intelligent recipe generation
 - **Database**: SQL for reliable data storage and retrieval
-- **Language**: [Add your primary programming language]
-- **Framework**: [Add your framework if applicable]
+- **Language**: C#
+- **Framework**: .NET 10
 
 ## Getting Started
 
