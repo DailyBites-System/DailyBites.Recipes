@@ -33,26 +33,6 @@ DailyBites.Recipes is a microservice designed to generate and manage personalize
 
 ## Getting Started
 
-### Prerequisites
-
-- [Add prerequisites]
-
-### Installation
-
-[Add installation instructions]
-
-### Configuration
-
-[Add configuration details including API keys and database setup]
-
-## Usage
-
-[Add usage examples and API endpoints]
-
-## API Endpoints
-
-[Document key API endpoints here]
-
 ## Contributing
 
 We welcome contributions! Please follow these steps:
