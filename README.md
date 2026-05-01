@@ -51,7 +51,8 @@ For issues, questions, or suggestions, please [create an issue](../../issues) in
 
 ## License
 
-[Add your license information]
+DailyBite is licensed under the MIT License. See [LICENSE](https://github.com/DailyBites-System/DailyBite/blob/main/LICENSE) for more information.
+
 
 ## Related Services
 
